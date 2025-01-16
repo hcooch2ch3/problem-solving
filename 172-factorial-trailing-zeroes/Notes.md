@@ -1,0 +1,1 @@
+<h2>factorial-trailing-zeroes Notes</h2><hr>[ Time taken: 2 s ]
